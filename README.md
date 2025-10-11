@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ZizTo!
+- 👋 Hi, I’m ZizTo
 - 👀 I’m interested in game development and BackEnd development
 - 🌱 I’m currently learning C++, C#, python and unity
 - 📫 You can reach me with pashamatievski@gmail.com
